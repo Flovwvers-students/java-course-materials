@@ -11,6 +11,8 @@
 
 ## Git и командная тренировка
 
+- [Ротации и статусы GitHub-практики](https://drive.google.com/file/d/1R4-yMSSe12L2CGAuPPGLIWFEuV-P8lL4/view)
+
 - [Инструкция к тренировке калькулятора](git/github-java-m3-assignment.md)
 - [Справочник Git / GitVerse / GitHub](git/git-reference.md)
 - [Настройка компьютера, gh, Java и прокси](git/github-java-m3-setup.md)
